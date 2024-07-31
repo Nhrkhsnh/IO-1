@@ -1,7 +1,9 @@
-Nama : Nur Khasanah
-Umur : 17
-Alamat : Jl Pandanajeng 17/04
-===============================
-Nama : Naura Putri Novitasari
-Umur : 5
-Alamat : Jl Pandanajeng 17/04
+
+Nama: Nur Khasanah
+Umur: 18
+Alamat: Tumpang
+---
+Nama: Naura Putri
+Umur: 7
+Alamat: Pandanajeng
+---
